@@ -1,0 +1,41 @@
+* { margin: 0px; padding: 0px; }
+header { margin: 80px 5%; overflow: hidden; }
+.logo { width: 20%; float: left; }
+.logo img { }
+.menu { width: 50%; float: right; }
+.menu ul { list-style: none; }
+.menu ul li { float: left; margin-left: 67px; }
+.menu ul li a { text-decoration: none; color: rgb(98, 98, 98); }
+.banner { margin: 80px 5%; }
+.banner img { width: 100%; }
+.photodiary { margin: 80px 10%; }
+.photodiary h3 { color: rgb(180, 173, 158); font-size: 16px; font-weight: 500; text-transform: uppercase; }
+.photodiary h1 { color: rgb(98, 98, 98); font-size: 30px; font-weight: 500; margin: 30px 0px; }
+.photodiary p { color: rgb(98, 98, 98); font-size: 14px; margin-bottom: 50px; }
+.lifestyle { overflow: hidden; margin: 20px 10%; }
+.left-content { float: left; width: 47%; margin-right: 2.5%; }
+.left-content img { float: left; width: 100%; margin-bottom: 20px; }
+.left-content h3 { color: rgb(180, 173, 158); font-size: 16px; font-weight: 500; text-transform: uppercase; }
+.left-content h1 { color: rgb(98, 98, 98); font-size: 30px; font-weight: 500; margin: 30px 0px; }
+.left-content p { color: rgb(98, 98, 98); font-size: 14px; margin-bottom: 50px; }
+.right-content { float: left; width: 47%; margin-left: 2.5%; }
+.right-content img { float: right; width: 100%; margin-bottom: 20px; }
+.right-content h3 { color: rgb(180, 173, 158); font-size: 16px; font-weight: 500; text-transform: uppercase; }
+.right-content h1 { color: rgb(98, 98, 98); font-size: 30px; font-weight: 500; margin: 30px 0px; }
+.right-content p { color: rgb(98, 98, 98); font-size: 14px; margin-bottom: 50px; }
+.newsletter { background: rgb(240, 240, 240); margin-bottom: 80px; }
+.box { width: 24%; margin: 10px 28%; padding: 70px; }
+.box h1 { color: rgb(51, 51, 51); margin-bottom: 80px; text-align: center;}
+.box input { color: rgb(98, 98, 98); width: 100%;margin-left: 15px;background: transparent;font-size: 14px;border: none;border-bottom: 1px solid #333333;}
+.loading{width: 10%;margin: 130px 44%;}
+button{border: 1px solid #626262;padding: 15px 25px;background: none;color: #626262;}
+footer{/* width: 90%; */background: rgb(240, 240, 240);overflow: hidden;}
+.rules{width: 30%;margin-left: 100px;float: left;padding: 40px;}
+.rules ul{list-style: none;}
+.rules ul li{float: left;margin-right: 30px;}
+.rules ul li a{color: #000000;text-decoration: none;}
+.icon{/* width: 23%; *//* float: right; */width: 25%;margin-left: 269px;float: left;padding: 40px;}
+.icon ul{list-style: none;margin-left: 122px;}
+.icon ul li{float: left;margin-right: 15px;}
+.icon ul li a{color: #000000;text-decoration: none;padding: 8px;}
+.arrow{position: absolute;transform: translate(283px, -23px);}
